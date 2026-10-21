@@ -23,7 +23,7 @@ The archives contain experimental outputs in formats including:
 - **JSON:** Experimental configurations, summaries, and metadata.
 - **NPY/NPZ:** Saved numerical arrays and intermediate computational states.
 - **BIN:** Binary sequences generated for randomness testing.
-- **Python:** Source files included in selected archives.
+- **SageMath/Python:** Source files included in selected archives.
 
 The main implementation and experimental scripts are available in the root directory of this repository.
 
