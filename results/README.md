@@ -35,9 +35,6 @@ Each archive can be downloaded and extracted separately.
 
 The NIST STS and TestU01 archive contains the generated binary streams and extraction controls. Complete per-test battery reports are not included in the current archive.
 
-## Scientific Scope
 
-The statistical experiments complement the mathematical and cryptanalytic analysis presented in the accompanying paper.
 
-The absence of statistically significant deviations in the selected experiments does not constitute a proof of cryptographic security. The theoretical security properties and structural limitations of RainHash are discussed separately in the paper.
 
